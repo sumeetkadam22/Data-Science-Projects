@@ -1,0 +1,15 @@
+Linear Regression
+MAE: 0.53
+RMSE: 0.75
+R2 Score: 0.58
+
+Decision Tree
+MAE: 0.45
+RMSE: 0.70
+R2 Score: 0.62
+
+Random Forest
+MAE: 0.33
+RMSE: 0.51
+R2 Score: 0.81
+
