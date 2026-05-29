@@ -1,0 +1,12 @@
+
+EDA Insights:
+
+1. Male and female student distribution is nearly balanced.
+
+2. Reading and writing scores are highly correlated.
+
+3. Students with higher parental education levels tend to perform better.
+
+4. Most students scored between 60 and 80 marks.
+
+5. Academic performance trends can be identified using visual analysis.
