@@ -1,0 +1,23 @@
+
+Retail Sales Analysis Insights
+
+1. Total Regions Analyzed: 4
+
+2. Top Category:
+Technology
+
+3. Highest Revenue Region:
+West
+
+4. Total Sales:
+2,297,200.86
+
+5. Machine Learning Model:
+Linear Regression
+
+6. R2 Score:
+-1.63
+
+Conclusion:
+The project identified important sales patterns and built
+a predictive model to estimate future sales performance.
